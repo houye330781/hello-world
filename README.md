@@ -1,6 +1,1 @@
-# hello-world
-another new
-
-i want to do something
-
-readme.md
+this project is "hello world" by houye33078!
